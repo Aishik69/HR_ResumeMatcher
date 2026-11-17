@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+python-docx
+PyPDF2
+spacy
+textblob
+scikit-learn
+nltk
+plotly
+pillow
+transformers
+torch
+sentence-transformers
+openai
+python-dotenv
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
